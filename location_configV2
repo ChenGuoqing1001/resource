@@ -1,8 +1,9 @@
 {
   "urls": [
-    "http://31.22.108.30:20081",
+    "http://38.207.187.59:20081",
     "https://mock.duanyuloveyou.xyz",
-    "http://47.109.70.133"
+            "https://mock2.duanyuloveyou.xyz",
+    "http://107.174.246.141:20081"
   ],
   "buy_url":"https://mockshop.2tech.top"
 }
