@@ -1,12 +1,19 @@
 {
-	"urls":[
-		"http://38.207.187.59:20081",
-		"https://mock.duanyuloveyou.xyz",
-		"https://mock2.duanyuloveyou.xyz",
-		"http://107.174.246.141:20081"
-	],
-	"buyUrls":[
-		"https://mockshop.2tech.top",
-		"https://mockshop2.2tech.top"
-	]
+  "urls": [
+    "http://38.207.187.59:20081",
+    "https://mock.duanyuloveyou.xyz",
+    "https://mock2.duanyuloveyou.xyz",
+    "http://107.174.246.141:20081"
+  ],
+  "buyUrls": [
+    "https://mockshop7.2tech.top",
+    "https://mockshop6.2tech.top",
+    "https://mockshop.2tech.top",
+    "https://mockshop8.2tech.top",
+    "https://mockshop5.2tech.top",
+    "https://mockshop2.2tech.top",
+    "https://mockshop9.2tech.top",
+    "https://mockshop4.2tech.top",
+    "https://mockshop3.2tech.top"
+  ]
 }
