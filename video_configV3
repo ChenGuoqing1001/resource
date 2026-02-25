@@ -1,20 +1,31 @@
 {
-  "urls": [
-    "http://38.207.187.59:20073",
-    "https://vdownload.duanyuloveyou.xyz",
-    "https://vdownload2.duanyuloveyou.xyz",
-    "http://107.174.246.141:20081"
-  ],
-  "buyUrls": [
-    "https://shop8.2tech.top",
-    "https://shop3.2tech.top",
-    "https://shop10.2tech.top",
-    "https://shop4.2tech.top",
-    "https://shop6.2tech.top",
-    "https://shop5.2tech.top",
-    "https://shop9.2tech.top",
-    "https://shop2.2tech.top",
-    "https://shop7.2tech.top",
-    "https://shop.2tech.top"
-  ]
+    "urls":
+    [
+        "http://38.207.187.59:20073",
+        "https://vdownload.duanyuloveyou.xyz",
+        "https://vdownload2.duanyuloveyou.xyz",
+        "http://107.174.246.141:20081"
+    ],
+    "buyUrls":
+    [
+        "https://shop15.2tech.top",
+        "https://shop8.2tech.top",
+        "https://shop14.2tech.top",
+        "https://shop3.2tech.top",
+        "https://shop17.2tech.top",
+        "https://shop10.2tech.top",
+        "https://shop13.2tech.top",
+        "https://shop4.2tech.top",
+        "https://shop6.2tech.top",
+        "https://shop18.2tech.top",
+        "https://shop5.2tech.top",
+        "https://shop9.2tech.top",
+        "https://shop19.2tech.top",
+        "https://shop2.2tech.top",
+        "https://shop7.2tech.top",
+        "https://shop.2tech.top",
+        "https://shop11.2tech.top",
+        "https://shop12.2tech.top",
+        "https://shop16.2tech.top"
+    ]
 }
